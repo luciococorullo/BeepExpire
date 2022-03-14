@@ -1,0 +1,6 @@
+framework module ScanditBarcodeCapture {
+  umbrella header "ScanditBarcodeCapture.h"
+
+  export *
+  module * { export * }
+}
